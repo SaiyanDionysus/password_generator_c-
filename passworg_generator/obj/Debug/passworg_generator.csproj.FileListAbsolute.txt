@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\bin\Debug\passworg_generator.exe.config
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\bin\Debug\passworg_generator.exe
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\bin\Debug\passworg_generator.pdb
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\obj\Debug\passworg_generator.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\obj\Debug\passworg_generator.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\obj\Debug\passworg_generator.exe
+C:\Users\Denis\source\repos\passworg_generator\passworg_generator\obj\Debug\passworg_generator.pdb
